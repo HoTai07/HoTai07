@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hophutai07@gmail.com**
 
-- ⚡ Fun fact **I can play piano**
+- ⚡ Fun fact **I can play piano and ISTP Personality type**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
