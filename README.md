@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hophutai07@gmail.com**
 
-- ⚡ Fun fact **I can play piano and ISTP personality type**
+- ⚡ Fun fact **I can play piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hotai07&show_icons=true&locale=en" alt="hotai07" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotai07&" alt="hotai07" /></p>
